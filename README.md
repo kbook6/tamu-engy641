@@ -1,6 +1,6 @@
 # tamu-engy641
 
 ## class notes:
-clustering methods
+└── clustering methods
 
 ## homework:
